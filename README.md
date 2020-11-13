@@ -1,28 +1,33 @@
-# README generator
+# README Generator
 
-  # Table of Contents
+  ## Table of Contents
 
-  -[Description](#desciption)
-  -[Installation](#installation)
-  -[Usage](#Usage)
-  -[Contribution](#Contribution)
-  -[Test](#test)
-  -[License](#license)
+  - [Description](#desciption)
+  - [Installation](#installation)
+  - [Usage](#Usage)
+  - [Contribution](#Contribution)
+  - [Test](#test)
+  - [License](#license)
   
 
   ## Description
-  This is a project which allows the user generate a quick and easy README file for any of their future projects. 
+  This is a project which allows the user generate a quick and easy README file for any of their future projects.
   ## License
-  ![badge](https://img.shields.io/badge/license=None-green)
-  None
+  ![badge](https://img.shields.io/badge/license=Apache-green)
+  <br />
+  Apache
   ## Installation
   npm i
   ## Usage
-  This repo allows user to generate README files. 
+  This repo allows user to generate README files.
   ## Contribution
-  No contribution is needed. 
+  No contribution is needed.
   ## Test
   None
+
+  ## For any additional questions please contact me at:
+  Email: israelguillermo22@gmail.com
+  GitHub: <a href= "https://github.com/" + IsraelGuillermo> IsraelGuillermo < /a>
 
 
 
