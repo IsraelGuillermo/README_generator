@@ -29,12 +29,13 @@ const questions = [
     type: "list",
     message: "What kind of license should your project have?",
     name: "license",
-    choices: ["MIT"],
+    choices: ["MIT", "Apache", "BSD", "GPL", "Apache 2", "None"],
   },
   {
     type: "input",
     message: "What command should be run to install dependencies?",
     name: "installation",
+    default: "npm i",
   },
   {
     type: "input",
