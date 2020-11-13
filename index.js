@@ -55,11 +55,10 @@ const questions = [
 ];
 
 // function to write README file
-// function writeToFile(filename, data) {
-//   fs.writeFile("./utils");
-// }
+
 const writeToFile = utils.promisify(fs.writeFile);
 
+// This prompts questions
 const prompUser = () => {
   return inquirer.prompt(questions);
 };
