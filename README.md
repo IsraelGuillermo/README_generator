@@ -1,4 +1,4 @@
-# Something
+# README generator
 
   # Table of Contents
 
@@ -11,16 +11,18 @@
   
 
   ## Description
-  Something Something
-  ## Installation
-  None
-  ## Usage
-  Nothing
-  ## Contribution
-  Dont
-  ## Test
-  undefined
+  This is a project which allows the user generate a quick and easy README file for any of their future projects. 
   ## License
-  MIT
+  ![badge](https://img.shields.io/badge/license=None-green)
+  None
+  ## Installation
+  npm i
+  ## Usage
+  This repo allows user to generate README files. 
+  ## Contribution
+  No contribution is needed. 
+  ## Test
+  None
+
 
 
