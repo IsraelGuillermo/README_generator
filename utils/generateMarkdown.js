@@ -29,7 +29,7 @@ function generateMarkdown(data) {
 
   ## For any additional questions please contact me at:
   Email: ${data.email}
-  GitHub: <a href= "https://github.com/" + ${data.username}> ${data.username} < /a>
+  GitHub: [${data.username}](https://github.com/${data.username})
 
 
 
