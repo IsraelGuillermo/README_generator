@@ -13,9 +13,9 @@
   ## Description
   This is a project which allows the user generate a quick and easy README file for any of their future projects.
   ## License
-  ![badge](https://img.shields.io/badge/license=Apache-green)
+  ![badge](https://img.shields.io/badge/license=MIT-green)
   <br />
-  Apache
+  MIT
   ## Installation
   npm i
   ## Usage
