@@ -23,11 +23,12 @@
   ## Contribution
   No contribution is needed.
   ## Test
-  None
+  None.
 
   ## For any additional questions please contact me at:
   Email: israelguillermo22@gmail.com
-  GitHub: <a href= "https://github.com/" + IsraelGuillermo> IsraelGuillermo < /a>
+  <br />
+  GitHub: [IsraelGuillermo](https://github.com/IsraelGuillermo)
 
 
 
